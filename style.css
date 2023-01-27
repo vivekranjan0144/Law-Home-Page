@@ -1,0 +1,118 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Red Rose', cursive;
+}
+
+body {
+    background-color: #2B2922;
+    color: #ffffff;
+    overflow-x: hidden;
+}
+
+/*-------------------NavBar ----------------------------- */
+.navbar {
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 3em;
+}
+
+.list {
+    list-style-type: none;
+    color: #a8a8a8;
+    display: flex;
+    gap: 2.2em;
+    margin-right: -20em;
+}
+
+.list-item:hover {
+    color: #ffffff;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.button-small {
+    background-color: transparent;
+    font-size: 1em;
+    padding: 0.5em 1em;
+    border-radius: 0.6em;
+    color: #A08F36;
+    border-color: #A08F36;
+    cursor: pointer;
+}
+/*------------------------------------------------------- */
+
+/*---------------------hero------------------------------ */
+.hero {
+    height: 38vh;
+    padding: 0em 3em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero-heading {
+    width: 8em;
+    margin: 0.6em 0em;
+    font-size: 5em;
+    line-height: 1;
+}
+
+.dummy-text {
+    margin: 4em 0em;
+    margin-left: 5em;
+    font-size: 1.2em;
+    width: 20em;
+    color: #d4d3cb;
+}
+
+.law-image {
+    background-image: url(/assets/pexels-ekaterina-bolovtsova-6077326.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 80vh;
+    background-position: center center;
+}
+/*------------------------------------------------------- */
+
+/*------------------Bottom-Button------------------------ */
+.bottom-btn {
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+}
+
+.left-button {
+    height: 6em;
+    width: 6em;
+    background-color: #4b483b;
+}
+
+.left-button>span {
+    border: 1px solid #ffff00;
+    color: #ffff00;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 0.4em;
+    font-size: 3em; 
+    font-weight: 100;
+    padding: 0 0.4em;
+}
+
+.right-button {
+    height: 6em;
+    width: 6em;
+    background-color: #A08F36;
+}
+
+.right-button>span {
+    border: 1px solid #ffffff;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 0.4em;
+    font-size: 3em; 
+    font-weight: 100;
+    padding: 0 0.4em;
+}
+/*------------------------------------------------------- */
