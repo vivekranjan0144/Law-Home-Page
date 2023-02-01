@@ -1,9 +1,7 @@
 
 # HTML-CSS PROJECT-3
 
-This is Law Home Page project made with technology HTML & CSS.
-I haven't made it responsive it only works in desktop/laptop screen.
-I will make it responsive ASAP.
+This is Law Home Page project made with technology HTML & CSS. I have made it responsive it works in both desktop screen and mobile screen.
 
 
 ## 🛠 Technologies Used
@@ -11,9 +9,13 @@ I will make it responsive ASAP.
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Demo
+## Demo Video in Desktop Screen
 
-[project-3.webm](https://user-images.githubusercontent.com/100980716/215227269-c8763f5a-ec1a-42c7-a242-fdf405d89185.webm)
+[Project-3.webm](https://user-images.githubusercontent.com/100980716/216086371-26b8ac39-ac65-4011-b4bf-fc2264b53425.webm)
+
+Demo Video in Mobile Screen
+
+https://user-images.githubusercontent.com/100980716/216086981-a240db11-4c9f-4cb6-a687-46f3a0ea0800.mp4
 
 ## Honest Time to finish the project
 
